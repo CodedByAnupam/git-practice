@@ -1,1 +1,4 @@
 Plan for this project
+
+1. learn git
+2. build projects
